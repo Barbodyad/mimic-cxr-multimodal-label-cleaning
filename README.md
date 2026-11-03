@@ -5,7 +5,7 @@ Multimodal Chest X-Ray Classification with Label Noise Correction on MIMIC-CXR
 
 [![Paper](https://img.shields.io/badge/Paper-DATA%202026-blue)](https://doi.org/10.5220/0015230100004091)
 
-Official code for **"Toward Reliable Automated Radiography: Improving Chest X-Ray Diagnosis through Multimodal Fusion and Label Cleaning"**, published at DATA 2026 (SciTePress).
+Official code for **"Toward Reliable Automated Radiography: Improving Chest X-Ray Diagnosis through Multimodal Fusion and Label Cleaning"**, published at DATA 2026.
 
 📄 Paper: https://doi.org/10.5220/0015230100004091
 
